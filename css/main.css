@@ -1,0 +1,146 @@
+.wrap{
+    width: 1900px;
+    height: 4000px;
+}
+.border{
+    width: 1700px;
+    border: 1px solid lightseagreen;
+    margin-top: -20px;
+    margin-left: 220px;
+}
+img{
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.col1 a{
+    margin-left: 220px;
+    margin-top: -90px;
+    font-size: 13px;
+    font-weight: bold;
+    text-decoration: none;
+    color: gray;
+    display:block;
+}
+.col1 a:hover{
+    transition: all 0.2s ease;
+    color: lightseagreen;
+}
+.col2 a{
+    margin-left: 380px;
+    margin-top: -16px;
+    font-size: 13px;
+    font-weight: bold;
+    text-decoration: none;
+    color: gray;
+    display:block;
+}
+.col2 a:hover{
+    transition: all 0.2s ease;
+    color: lightseagreen;
+}
+.col3 a{
+    margin-left: 500px;
+    margin-top: -16px;
+    font-size: 13px;
+    font-weight: bold;
+    text-decoration: none;
+    color:gray;
+    display:block;
+}
+.col3 a:hover{
+    transition: all 0.2s ease;
+    color: lightseagreen;
+}
+.col4 a{
+    margin-left: 685px;
+    margin-top: -16px;
+    font-size: 13px;
+    font-weight: bold;
+    text-decoration: none;
+    color: gray;
+    display:block;
+}
+.col4 a:hover{
+    transition: all 0.2s ease;
+    color: lightseagreen;
+}
+.col5 a{
+    margin-left: 930px;
+    margin-top: -16px;
+    font-size: 13px;
+    font-weight: bold;
+    text-decoration: none;
+    color: gray;
+    display:block;
+}
+.col5 a:hover{
+    transition: all 0.2s ease;
+    color: lightseagreen;
+}
+.col6 a{
+    font-weight: bold;
+    margin-top: -20px;
+    margin-left: 1120px;
+    text-decoration: none;
+    color: black;
+    display:block;
+}
+.col7 a{
+    margin-left: 1500px;
+    margin-top: -15px;
+    font-size: 13px;
+    font-weight: bold;
+    text-decoration: none;
+    display:block;
+    color: black;
+}
+.col8 a{
+    margin-left: 1550px;
+    margin-top:-27px;
+    font-size: 13px;
+    font-weight: bold;
+    text-decoration: none;
+    color: gray;
+    display:block;
+}
+.col9 a{
+    margin-left: 1650px;
+    margin-top: -15px;
+    font-size: 17px;
+    font-weight: bold;
+    text-decoration: none;
+    color: gray;
+    display:block;
+}
+.col200 a{
+    margin-left: 1550px;
+    margin-top: -27px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    display:block;
+    font-size: 20px;
+}
+.col300 a{
+    margin-left: 1650px;
+    margin-top: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    display:block;
+}
+.col11 a{
+    text-decoration: none;
+    list-style: none;
+    font-size: 25px;
+    margin-left: 220px;
+    margin-top: -20px;
+    color: black;
+    font-weight: bold;
+}
+li{
+    list-style: none;
+    font-weight: bold;
+    margin-top: 20px;
+}
